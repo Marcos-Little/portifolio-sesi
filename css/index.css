@@ -52,6 +52,9 @@
     align-items: center;
     background: linear-gradient(to right, #e2e2e2, #c9d5ff);
 }
+a{
+    color: black;
+}
 #principal .cartao{
     border: 3px solid #6a0dad;
     border-radius: 10px;
